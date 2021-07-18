@@ -2,6 +2,11 @@
 name = "vcproof"
 version = "0.1.0"
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "The VCProof zkSNARK implementation"
+homepage = "https://github.com/yczhangsjtu/vcproof-rust"
+repository = "https://github.com/yczhangsjtu/vcproof-rust"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
